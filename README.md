@@ -12,3 +12,7 @@ Introducing the "Awesome ChatGPT Prompts for Developers" repository!
 Here, you'll find a curated selection of prompt examples designed explicitly for use with the ChatGPT model.
 
 ChatGPT is an impressive language model created by OpenAI, capable of generating text closely resembling human language. You can receive responses that seamlessly carry on a conversation or delve deeper into the topic by simply supplying it with a prompt.
+
+## Task Prompt: Generating Ruby Code to Create Files with Unique Words
+
+In this task, you are required to use OpenAI's GPT-3.5 (Codename: OpqnAI) to generate Ruby code that creates two files. The first file should contain 100 randomly generated words, while the second file should contain only 10 unique words from the first file, with each word starting with the letter 'A'.
